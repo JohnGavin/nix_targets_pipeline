@@ -1,4 +1,4 @@
-# Inspired by the template in the {targets} package
+# Inspired  by the template in the {targets} package
 # https://github.com/ropensci/targets/blob/3b16f37ba5cdca710adbb81c2301f6b1d7432cfb/inst/templates/github_actions.yaml
 
 name: run-pipeline
